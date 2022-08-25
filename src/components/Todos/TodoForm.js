@@ -36,7 +36,7 @@ export default class TodoForm extends Component {
                         placeholder="Enter your Todo item"
                         onChange={this.handleChange}
                     />
-                    <button type="submit">Add Todo</button>
+                    <button  type="submit">Add Todo</button>
                 </form>
             </div>
         )
